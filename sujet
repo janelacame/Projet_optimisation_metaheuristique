@@ -1,0 +1,19 @@
+For the work to do, you must:  
+
+Choose a problem to study on the multi-objective optimization on IoT/edge//fog/cloud computing environments. 
+Workflow scheduling, task offloading, controller placement problem in SDVN (Software Defined Vehicle Networks…) 
+
+Give the mathematical formulation of the problem: decision variables, constraints on these variables and objective functions. Deadline ?, 2023. 
+
+A metaheuristic to solve the chosen problem (MOGA, NSGAII, PSO, ACO, NPGA, Levy flight, hybrid metaheuristics + machine learning/deep learning ...) 
+
+The problem must have at least 2 objectives and the resolution approach must be a pareto- based approach. 
+
+Implementing the metaheuristic.  
+
+Evaluate the performance of your metaheuristic and compere the results with of other group results. 
+
+You must make rapport and a presentation to explain the problem studied, its mathematical modeling, how to adapt the metaheuristic to solve the studied problem, 
+a demonstration of your application. 
+
+Deadline ?, 2023.
